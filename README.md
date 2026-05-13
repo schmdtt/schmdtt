@@ -63,11 +63,7 @@ class Developer:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=schmdtt&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&count_private=true" alt="GitHub Stats" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=schmdtt&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schmdtt&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" alt="Top Langs" />
 
 </div>
 
