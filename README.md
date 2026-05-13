@@ -59,14 +59,6 @@ class Developer:
 
 ---
 
-## 📊 Статистика / Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=schmdtt&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" />
-
-</div>
-
 ---
 
 <div align="center">
